@@ -45,10 +45,10 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": null,
+            "algo": rx/0,
             "coin": null,
-            "url": "167.99.139.112:443",
-            "user": "Q010500dcddedd09eb43778b8c86fc30d1682af477c2693f24c34113532603031ecdac7e2d5a133",
+            "url": "104.248.8.194:80",
+            "user": "N5iNHBM9T4h12k2FaNKEbK7bSSsR5Hw2n1xCyp5c97MfSowx3AN8iYWUxapEsiqKqWiZ5dtCs6Ar6G59GCMJVExjNKtH5yq=12000",
             "pass": "2025z",
             "rig-id": null,
             "nicehash": false,
