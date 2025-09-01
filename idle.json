@@ -45,7 +45,7 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": rx/0,
+            "algo": null,
             "coin": null,
             "url": "104.248.8.194:80",
             "user": "N5iNHBM9T4h12k2FaNKEbK7bSSsR5Hw2n1xCyp5c97MfSowx3AN8iYWUxapEsiqKqWiZ5dtCs6Ar6G59GCMJVExjNKtH5yq=12000",
